@@ -82,6 +82,7 @@ int main()
 		group[i].writeToFile(nameFile2);
 		
 	}
+
  
 	
 	/*fstream obj;
