@@ -1,0 +1,3 @@
+Misha 15 1
+Maks 14 0
+Nika 14 0
